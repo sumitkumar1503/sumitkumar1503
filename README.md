@@ -7,10 +7,29 @@
 
 ## 📊 GitHub Stats
 
-<p >![Sumit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitkumar1503&show_icons=true&hide_rank=true&hide_title=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <!-- main stats card (no rank badge) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sumitkumar1503&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=tokyonight"
+    alt="Sumit Kumar's GitHub stats"
+    height="165"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1503&layout=compact&theme=tokyonight" height="180" />
+  <!-- top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1503&layout=compact&theme=tokyonight"
+    alt="Top languages"
+    height="165"
+  />
+
+  <!-- optional streak graph (remove if you don't want it) -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkumar1503&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+    height="165"
+  />
 </p>
+
 
 ---
 
