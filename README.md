@@ -7,22 +7,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- main stats card (no rank badge) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sumitkumar1503&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=tokyonight"
-    alt="Sumit Kumar's GitHub stats"
-    height="165"
-  />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- top languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1503&layout=compact&theme=tokyonight"
-    alt="Top languages"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar1503&show_icons=true&theme=tokyonight&hide=contribs" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1503&layout=compact&theme=tokyonight" height="200" />
 
-</p>
+</div>
 
 
 ---
