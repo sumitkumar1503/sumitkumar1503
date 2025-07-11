@@ -22,12 +22,6 @@
     height="165"
   />
 
-  <!-- optional streak graph (remove if you don't want it) -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkumar1503&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-    height="165"
-  />
 </p>
 
 
