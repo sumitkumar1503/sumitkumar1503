@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Passionate+Java+Developer;Spring+Boot+Microservices+Expert;Open+Source+Contributor" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/sumitkumar1503?tab=followers">
+    <img src="https://img.shields.io/github/followers/sumitkumar1503?label=Follow%20Me%20on%20GitHub&style=for-the-badge&logo=github&color=4c71f2" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
