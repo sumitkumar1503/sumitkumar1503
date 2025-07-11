@@ -25,7 +25,6 @@
 ## 🚀 GitHub Summary
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitkumar1503&label=Profile+Views&color=0e75b6&style=flat" alt="sumitkumar1503" />
   <img src="https://img.shields.io/github/followers/sumitkumar1503?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/sumitkumar1503?label=Stars&style=social" />
 </p>
