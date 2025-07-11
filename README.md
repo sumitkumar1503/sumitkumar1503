@@ -7,9 +7,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar1503&show_icons=true&theme=tokyonight&hide=contribs" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sumitkumar1503&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight" alt="Sumit Kumar's GitHub Stats" height="200">
+  
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1503&layout=compact&theme=tokyonight" height="200" />
 
